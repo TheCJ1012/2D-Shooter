@@ -1,3 +1,3 @@
 /// @description Varible
-speed = 3;
+speed = 1.5;
 direction = point_direction(x,y,obj_player.x,obj_player.y)
